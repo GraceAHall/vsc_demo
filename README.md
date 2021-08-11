@@ -68,7 +68,7 @@ Lines can also be duplicated by adding `shift` to the above ( `shift+alt+ğŸ •/ğŸ
 
 Commenting and uncommenting lines is easy. Just use `ctrl+k+c` to comment, and `ctrl+k+u` to uncomment. VSC works out the correct way to comment the line depending on the type of file being worked on. 
 
-<img src="media/dupline.gif" height="80px"/>
+<img src="media/comment_uncomment.gif" height="80px"/>
 
 
 
