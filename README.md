@@ -10,11 +10,11 @@ Software used to make gifs: [ScreenToGif](https://www.screentogif.com/)
 basic functionality
  - main windows
  - using multiple windows (even same file) 
- - go to definition
  - search               
  - replace all 
- - go to next instance  (alt+d)
  - line manipulation
+ - go to next instance
+ - go to definition
 
 
 github source control
