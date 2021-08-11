@@ -2,6 +2,8 @@
 
 This repo is to showcase some common uses of VSC. 
 
+Software used to make gifs: [ScreenToGif](https://www.screentogif.com/)
+
 
 ## Contents
 
@@ -59,21 +61,16 @@ lines can be moved up or down using `alt+🠕/🠗`
 <img src="media/moveline.gif" height="80px"/>
 
 
-Lines can also be duplicated by adding `shift` to the above  [`shift+alt+🠕/🠗`]
+Lines can also be duplicated by adding `shift` to the above ( `shift+alt+🠕/🠗` ) 
 
 <img src="media/dupline.gif" height="80px"/>
 
 
+Commenting and uncommenting lines is easy. Just use `ctrl+k+c` to comment, and `ctrl+k+u` to uncomment. VSC works out the correct way to comment the line depending on the type of file being worked on. 
+
+<img src="media/dupline.gif" height="80px"/>
 
 
-
-
-
-
- - comment lines        (ctrl+k+c)
- - uncomment lines      (ctrl+k+u)
- - move line            (alt-up/down)
- - duplicate line       (shift-alt-up/down)
 
 
 
