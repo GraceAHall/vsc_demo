@@ -25,12 +25,11 @@ github source control
 
 extentions (customise VSC for your needs)
  - how to find & install
- - aesthetics
+ - code linting
  - code snippets & boilerplate
+ - aesthetics
  - galaxy
- - html
  - markdown
- - linting
 
 
 aesthetics (from extensions)

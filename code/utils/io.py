@@ -4,7 +4,6 @@
 from classes.genome import Genome
 
 
-
 # function definitions
 def read_fasta(filepath): 
     new_genome = Genome()
