@@ -1,7 +1,6 @@
 # VSC demo
 
 This repo is to showcase some common uses of VSC. 
-
 Software used to make gifs: [ScreenToGif](https://www.screentogif.com/)
 
 
@@ -17,36 +16,31 @@ basic functionality
  - go to definition
 
 
+extentions (customise VSC for your needs)
+ - how to find & install
+ - code linting
+ - aesthetics   (color themes, bracket pair coloriser)
+ - markdown
+ - galaxy
+
+
 github source control
  - Setting up github integration
  - File tracking
  - push, pull, & other common commands
 
 
-extentions (customise VSC for your needs)
- - how to find & install
- - code linting
- - code snippets & boilerplate
- - aesthetics
- - galaxy
- - markdown
-
-
-aesthetics (from extensions)
- - color themes
- - bracket pair coloriser
-
-
 debugging 
  - setting up a debug profile
  - variable window
- - breakpoint marking
+ - breakpoints 
 
 
 tests
- - why tests?
+ - setting up test functionality
  - writing tests
  - test reports
+
 
 
 ## Basic functionality
