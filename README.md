@@ -8,12 +8,13 @@ Software used to make gifs: [ScreenToGif](https://www.screentogif.com/)
 
 basic functionality
  - main windows
- - using multiple windows (even same file) 
- - search               
- - replace all 
+ - using multiple windows (incl. same file) 
  - line manipulation
  - go to next instance
+ - search               
+ - replace all 
  - go to definition
+ - rename symbol
 
 
 extentions (customise VSC for your needs)
@@ -44,7 +45,7 @@ tests
 
 Future plans
  - galaxy planemo test integration
- 
+
 
 
 
