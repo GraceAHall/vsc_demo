@@ -42,6 +42,11 @@ tests
  - test reports
 
 
+Future plans
+ - galaxy planemo test integration
+ 
+
+
 
 ## Basic functionality
 
